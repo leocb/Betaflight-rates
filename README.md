@@ -48,3 +48,11 @@ A_Nub : https://www.youtube.com/watch?v=HLW7K27TQIM
 |Roll  |0.90    |0.80       |0       |
 |Pitch |0.90    |0.80       |0       |
 |Yaw   |0.90    |0.80       |0       |
+
+Le Drib : https://www.youtube.com/watch?v=qUZfv6D4BP4
+
+|      |RC Rate |Super Rate |RC Expo |
+|------|--------|-----------|--------|
+|Roll  |1.20    |0.73       |0       |
+|Pitch |1.20    |0.65       |0       |
+|Yaw   |1.75    |0.40       |0       |
